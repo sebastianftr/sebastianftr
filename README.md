@@ -9,7 +9,7 @@
 ---
 
 ## Sobre mí
-Soy estudiante/ingeniero/desarrollador (elige lo que aplique). Me enfoco en construir aplicaciones web robustas y mantenibles, con interés en buenas prácticas, pruebas automatizadas y arquitecturas modulares.
+Soy estudiante/ingeniero/desarrollador. Me enfoco en construir aplicaciones web robustas y mantenibles, con interés en buenas prácticas, pruebas automatizadas y arquitecturas modulares.
 
 - 📍 Ubicación: Ambato, Ecuador
 - ✨ Actualmente: estudiando en Universidad Tecnica de Ambato 
@@ -27,8 +27,6 @@ Soy estudiante/ingeniero/desarrollador (elige lo que aplique). Me enfoco en cons
 ---
 
 ## Proyectos destacados
-> Selecciona 3 proyectos y enlázalos (usa los repos que tengas públicos y bien documentados).
-
 ### 🔹 Proyecto-1
 **Descripción:** App web para [qué hace].  
 **Stack:** React · Node · PostgreSQL  
