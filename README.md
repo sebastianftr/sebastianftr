@@ -1,4 +1,5 @@
 ## 
+![Banner](https://raw.githubusercontent.com/sebastianftr/sebastianftr/main/White%20And%20Black%20Gradient%20Coming%20Soon%20Email%20Header.png)
 # ¡Hey! Soy Sebastián Freire
 
 **Desarrollador Full-Stack** | Java, JavaScript, .NET, React | Apasionado por la ingeniería limpia y las soluciones escalables.
